@@ -11,8 +11,9 @@ author_profile: false
 An offline-first transcription and summarization system using WhisperX, Mistral, and custom automation scripts. Built to capture meeting audio, transcribe speakers, and generate concise summaries—all on local hardware for privacy.
 
 <p align="center">
-  <img src="/assets/images/transcription_pipeline.png" alt="Transcription Pipeline Diagram" width="600">
+  <img src="{{ site.baseurl }}/assets/images/transcription_pipeline.png" alt="Transcription Pipeline Diagram" width="600">
 </p>
+
 
 **Stack**  
 - WhisperX with speaker diarization  
