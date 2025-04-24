@@ -5,19 +5,53 @@ layout: single
 author_profile: false
 ---
 
-### 🧠 AI Transcription Pipeline
+## 🧠 AI Transcription + Summarization Pipeline
 
-An end-to-end local transcription + summarization system using WhisperX, ffmpeg, VB-CABLE, and Mistral.  
-Documentation includes setup, routing configuration, audio cleanup tooling, and privacy-aware options.
+**Summary**  
+An offline-first audio transcription system using WhisperX, Mistral, ffmpeg, and VB-CABLE. Built for real-time meeting transcription and privacy-compliant summarization.
 
-[View project on GitHub →](https://github.com/DG-Crawford/ai-transcription-pipeline)
+**Stack**  
+- WhisperX with speaker diarization  
+- `ffmpeg` for audio processing  
+- VB-CABLE for system audio routing  
+- PowerShell + Python scripts  
+- Mistral-7B GGUF model (local)
+
+**My Role**  
+- Designed architecture  
+- Wrote full setup, deployment, and troubleshooting documentation  
+- Created PowerShell automation script for meeting capture  
+- Wrote `redactor.py` for privacy-safe name removal
+
+[🔗 View full repo and docs on GitHub →](https://github.com/DG-Crawford/ai-transcription-pipeline)
 
 ---
 
-### ⛓️ Redaction Script (Optional Component)
+## 🔒 Redactor Script (Privacy Layer)
 
-A simple Python-based redaction system that can clean names or sensitive strings from transcribed dialogue.
+**Summary**  
+A standalone name redaction utility written in Python, integrated as a post-processing step for the transcription pipeline.
+
+**Features**  
+- Regex pattern-based scrubbing  
+- Command line flags for optional redaction types  
+- Output to cleaned `.txt` for summarization
+
+**My Role**  
+- Developed script  
+- Documented usage in both README and longform  
+- Designed to integrate cleanly with transcription workflows
+
+[🔗 View script in repo →](https://github.com/DG-Crawford/ai-transcription-pipeline/blob/main/redactor.py)
 
 ---
 
-More AI-adjacent documentation coming soon.
+## 🧰 Future Projects
+
+**Data-Centric AI Ops Docs (WIP)**  
+Upcoming documentation projects that simulate the onboarding experience for data-centric AI workflows, including:
+- Static site docs for a fictional model zoo
+- Prompt engineering pattern guide
+- ML pipeline troubleshooting sample
+
+*Coming soon.*
