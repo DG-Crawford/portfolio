@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "David Crawford – AI Writing Portfolio"
+layout: single
+title: "David Crawford Portfolio"
 excerpt: "Technical documentation projects, platform design, and writing systems focused on AI, cloud infrastructure, and internal tooling."
 author_profile: true
 author: davidcrawford
@@ -10,4 +10,3 @@ Welcome. I'm a senior technical writer with a focus on AI systems, internal tool
 
 - 📂 [Documentation Samples](/samples/)
 - ⚙️ [AI + Tooling Projects](/projects/)
-- 📝 [Writing + Thought Pieces](/blog/) *(optional future)*
