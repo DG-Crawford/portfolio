@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-## Internal Documentation Hub: SharePoint + Teams Integration
-
 **Summary**  
 Developed a SharePoint- and Teams-based collaboration system that functions as a centralized documentation hub. Each Teams channel corresponds to a structured SharePoint folder, enabling real-time editing, SME collaboration, and transparent document lifecycle management.
 
@@ -30,8 +28,9 @@ Developed a SharePoint- and Teams-based collaboration system that functions as a
   - `Notes`: Embedded OneNote (used for SME interview summaries)
 - Future state add-ons: Planner cards for doc requests, Calendar sync for review cycles
 
-![Screenshot of TechDocs Hub folder structure in SharePoint](/assets/images/techdocs-folder-structure.png)  
-*TechDocs folder structure in SharePoint, organized by document category. Includes SOP staging folders and foundational templates to support intake, planning, and repository lifecycle workflows.*
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/techdocs-folder-structure.png" alt="TechDocs Folder Structure" width="480">
+</p>
 
 ---
 
