@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "David Crawford Portfolio"
+title: "Writing Portfolio"
 excerpt: "Technical documentation projects, platform design, and writing systems focused on AI, cloud infrastructure, and internal tooling."
 author_profile: true
 author: davidcrawford
