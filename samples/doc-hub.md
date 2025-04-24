@@ -29,7 +29,7 @@ Developed a SharePoint- and Teams-based collaboration system that functions as a
 - Future state add-ons: Planner cards for doc requests, Calendar sync for review cycles
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/techdocs-folder-structure.png" alt="TechDocs Folder Structure" width="480">
+  <img src="{{ site.baseurl }}/assets/images/techdocs-folder-structure.png" alt="TechDocs Folder Structure" width="600">
 </p>
 
 ---
