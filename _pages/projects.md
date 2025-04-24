@@ -5,10 +5,14 @@ layout: single
 author_profile: false
 ---
 
-## 🧠 AI Transcription + Summarization Pipeline
+## AI Transcription + Summarization Pipeline
 
 **Summary**  
-An offline-first audio transcription system using WhisperX, Mistral, ffmpeg, and VB-CABLE. Built for real-time meeting transcription and privacy-compliant summarization.
+An offline-first transcription and summarization system using WhisperX, Mistral, and custom automation scripts. Built to capture meeting audio, transcribe speakers, and generate concise summaries—all on local hardware for privacy.
+
+<p align="center">
+  <img src="/assets/images/transcription_pipeline.png" alt="Transcription Pipeline Diagram" width="600">
+</p>
 
 **Stack**  
 - WhisperX with speaker diarization  
@@ -23,11 +27,11 @@ An offline-first audio transcription system using WhisperX, Mistral, ffmpeg, and
 - Created PowerShell automation script for meeting capture  
 - Wrote `redactor.py` for privacy-safe name removal
 
-[🔗 View full repo and docs on GitHub →](https://github.com/DG-Crawford/ai-transcription-pipeline)
+[View full repo and docs on GitHub →](https://github.com/DG-Crawford/ai-transcription-pipeline)
 
 ---
 
-## 🔒 Redactor Script (Privacy Layer)
+##Redactor Script (Privacy Layer)
 
 **Summary**  
 A standalone name redaction utility written in Python, integrated as a post-processing step for the transcription pipeline.
@@ -46,7 +50,7 @@ A standalone name redaction utility written in Python, integrated as a post-proc
 
 ---
 
-## 🧰 Future Projects
+##Future Projects
 
 **Data-Centric AI Ops Docs (WIP)**  
 Upcoming documentation projects that simulate the onboarding experience for data-centric AI workflows, including:
