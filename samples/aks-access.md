@@ -20,13 +20,28 @@ Before managing or deploying workloads in the Azure Kubernetes Service (AKS), yo
 1. Navigate to the relevant AKS cluster. 
 2. Use Privileged Identiy Management (PIM) to assign yourself the TRG Custom Role | MGMT AKS Cluster Administrator role. 
 3. Open the Azure CLI and run the following commands. 
-- Log in to Azure 
-```az login``` 
-- Set the correct subscription: 
-```az account set --subscription <SUBSCRIPTION_ID>``` 
-- Retrieve the AKS Cluster Credentials: 
-```az aks get-credentials –resource-group <RESOURCE_GROUP> --name <AKS_CLUSTER_NAME>``` 
-- Verify the connection: 
-```kubectl cluster-info``` 
+	- Log in to Azure 
+
+	```bash
+	az login
+	``` 
+
+	- Set the correct subscription: 
+
+	```bash
+	az account set --subscription <SUBSCRIPTION_ID>
+	``` 
+
+	- Retrieve the AKS Cluster Credentials: 
+
+	```bash
+	az aks get-credentials –resource-group <RESOURCE_GROUP> --name <AKS_CLUSTER_NAME>
+	``` 
+
+	- Verify the connection: 
+
+	```bash
+	kubectl cluster-info
+	``` 
 
 If successful, the Kubernetes control plane and services should be visible. If not, recheck the prerequisites and ensure PIM role assignment is complete.
