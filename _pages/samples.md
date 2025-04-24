@@ -15,8 +15,17 @@ _Simple, high-value access doc for engineers deploying into restricted clusters_
 - Used by all new members of the CLD Infrastructure team as part of AKS onboarding
 - [View Guide →](/portfolio/samples/aks-access/)
 
-### Blog Draft (Coming Soon)
-On the intersection of Docs-as-Code and AI tool integration.
+## Documentation Systems & Platforms
+
+**Internal Documentation Hub Design (SharePoint + Teams)**  
+Live documentation portal built using Teams, SharePoint, and PowerAutomate to replace static SharePoint libraries and streamline SME collaboration.
+
+- Created a modular Teams-based structure with real-time editing and lifecycle metadata
+- Built SharePoint-integrated folder systems for SOPs, templates, and review checklists
+- Introduced naming standards, metadata tagging, and a repository lifecycle workflow
+- Result: Reduced doc turnaround times by ~50% and enabled cross-team visibility
+
+📄 [View Case Study →](/samples/doc-hub/)
 
 ### API Reference (Planned)
 Sample API documentation based on open-source model interaction.
