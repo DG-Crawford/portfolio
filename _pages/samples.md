@@ -24,8 +24,7 @@ Live documentation portal built using Teams, SharePoint, and PowerAutomate to re
 - Built SharePoint-integrated folder systems for SOPs, templates, and review checklists
 - Introduced naming standards, metadata tagging, and a repository lifecycle workflow
 - Result: Reduced doc turnaround times by ~50% and enabled cross-team visibility
-
-📄 [View Case Study →](/samples/doc-hub/)
+- [View Case Study →](/portfolio/samples/doc-hub/)
 
 ### API Reference (Planned)
 Sample API documentation based on open-source model interaction.
