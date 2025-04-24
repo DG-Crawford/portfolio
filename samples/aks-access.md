@@ -8,8 +8,6 @@ author_profile: false
 ## Overview
 Before managing or deploying workloads in the Azure Kubernetes Service (AKS), you must gain access to the relevant cluster using Azure CLI and kubectl.
 
----
-
 ## Prerequisites
 
 - Install Azure CLI 
