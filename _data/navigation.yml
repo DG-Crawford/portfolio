@@ -1,7 +1,11 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
-  - title: "AI Projects"
+  - title: "Projects"
     url: /projects/
   - title: "Samples"
     url: /samples/
+  - title: "Resume"
+    url: /assets/David-Crawford-Resume.pdf
