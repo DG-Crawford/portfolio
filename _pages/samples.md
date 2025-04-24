@@ -2,7 +2,8 @@
 title: "Writing Samples"
 permalink: /samples/
 layout: single
-author_profile: false
+author_profile: true
+author: davidcrawford
 ---
 
 ## AKS Cluster Access Guide

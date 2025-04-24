@@ -2,7 +2,8 @@
 title: "AI Projects"
 permalink: /projects/
 layout: single
-author_profile: false
+author_profile: true
+author: davidcrawford
 ---
 
 ## AI Transcription + Summarization Pipeline

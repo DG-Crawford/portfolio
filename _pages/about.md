@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 layout: single
 author_profile: true
+author: davidcrawford
 ---
 
 I'm a senior technical writer focused on AI systems, infrastructure documentation, and scalable content platforms. My background includes creating live doc hubs, refining internal knowledge bases, and accelerating cross-team workflows through writing systems—not just individual docs.

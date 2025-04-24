@@ -1,0 +1,9 @@
+davidcrawford:
+  name        : "David Crawford"
+  avatar      : "/assets/images/avatar.jpg" # optional if you want a photo
+  bio         : "Senior technical writer focused on AI systems, documentation platforms, and cloud infrastructure."
+  location    : "Houston, TX"
+  email       : "david.crawford1995@gmail.com"
+  github      : "https://github.com/DG-Crawford"
+  linkedin    : "https://www.linkedin.com/in/david--crawford/"
+  website     : "https://dg-crawford.github.io/portfolio/"
