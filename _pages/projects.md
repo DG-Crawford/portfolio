@@ -31,7 +31,7 @@ An offline-first transcription and summarization system using WhisperX, Mistral,
 
 ---
 
-##Redactor Script (Privacy Layer)
+## Redactor Script (Privacy Layer)
 
 **Summary**  
 A standalone name redaction utility written in Python, integrated as a post-processing step for the transcription pipeline.
@@ -50,7 +50,7 @@ A standalone name redaction utility written in Python, integrated as a post-proc
 
 ---
 
-##Future Projects
+## Future Projects
 
 **Data-Centric AI Ops Docs (WIP)**  
 Upcoming documentation projects that simulate the onboarding experience for data-centric AI workflows, including:
