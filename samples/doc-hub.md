@@ -1,6 +1,6 @@
 ---
 title: "Internal Documentation Hub Design"
-permalink: /samples/techdocs-hub/
+permalink: /samples/docs-hub/
 layout: single
 author_profile: false
 ---
