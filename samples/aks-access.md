@@ -18,7 +18,7 @@ Before managing or deploying workloads in the Azure Kubernetes Service (AKS), yo
 ## Gaining Cluster Access
 
 1. Navigate to the relevant AKS cluster. 
-2. Use Privileged Identiy Management (PIM) to assign yourself the role: **TRG Custom Role | MGMT AKS Cluster Administrator**. 
+2. Use Privileged Identiy Management (PIM) to assign yourself the role: **TRG Custom Role - MGMT AKS Cluster Administrator**. 
 3. Open the Azure CLI and run the following commands. 
 	- Log in to Azure 
 
