@@ -68,7 +68,7 @@ Developed a SharePoint- and Teams-based collaboration system that functions as a
 
 ---
 
-### Your Role
+### My Role
 
 - Designed the system architecture
 - Coordinated permissions with internal IT

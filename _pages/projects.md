@@ -22,7 +22,7 @@ An offline-first transcription and summarization system using WhisperX, Mistral,
   <img src="{{ site.baseurl }}/assets/images/transcription_pipeline.png" alt="Transcription Pipeline Diagram" width="480">
 </p>
 
-**My Role**  
+**How I Made It**  
 - Designed architecture  
 - Wrote full setup, deployment, and troubleshooting documentation  
 - Created PowerShell automation script for meeting capture  
@@ -42,12 +42,7 @@ A standalone name redaction utility written in Python, integrated as a post-proc
 - Command line flags for optional redaction types  
 - Output to cleaned `.txt` for summarization
 
-**My Role**  
-- Developed script  
-- Documented usage in both README and longform  
-- Designed to integrate cleanly with transcription workflows
-
-[🔗 View script in repo →](https://github.com/DG-Crawford/ai-transcription-pipeline/blob/main/redactor.py)
+[View script in repo →](https://github.com/DG-Crawford/ai-transcription-pipeline/blob/main/redactor.py)
 
 ---
 

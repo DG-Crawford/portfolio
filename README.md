@@ -1,27 +1,28 @@
-# Minimal Mistakes remote theme starter
+# David Crawford – AI Writing Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This GitHub Pages site showcases my work as a senior technical writer with a focus on AI systems, infrastructure documentation, and internal tooling. The portfolio includes:
 
-Contains basic configuration to get you a site with:
+- Infrastructure SOPs and system design docs
+- A live documentation hub built on SharePoint + Teams
+- AI-adjacent projects, including a local-first transcription pipeline
+- Examples of writing system governance, metadata standards, and doc lifecycle strategy
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+View the live site: [dg-crawford.github.io/portfolio](https://dg-crawford.github.io/portfolio)
 
 ---
 
-## Troubleshooting
+## About Me
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+I'm a senior technical writer focused on enabling engineering teams through scalable documentation systems. My work blends clarity, process architecture, and toolchain awareness to make complex infrastructure and AI workflows more usable.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+---
+
+## Structure
+
+This repo contains:
+
+- Markdown-based content under `_pages/` and `samples/`
+- Config files for [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+- Static assets (images, PDFs, screenshots) in `assets/`
+
+All content is written and maintained by David Crawford.

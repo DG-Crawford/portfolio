@@ -6,7 +6,8 @@ author_profile: true
 author: davidcrawford
 ---
 
-Welcome. I'm a senior technical writer with a focus on AI systems, internal tooling, and documentation strategy. This site showcases my work across infrastructure SOPs, content system design, and AI-adjacent technical projects.
+Welcome. I'm a senior technical writer with experience in Confluence, ServiceNow, SharePoint, and Wikis within the Cloud and Medical fields. My current focus is on AI systems, internal tooling, and documentation strategy. This site showcases my work across infrastructure SOPs, content system design, and other technical writing projects.
+Check out some of my recent works below.
 
-- 📂 [Documentation Samples](/samples/)
-- ⚙️ [AI + Tooling Projects](/projects/)
+- [Documentation Samples](/samples/)
+- [AI Projects](/projects/)
