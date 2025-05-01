@@ -1,4 +1,4 @@
-# David Crawford – AI Writing Portfolio
+# David Crawford – Writing Portfolio
 
 This GitHub Pages site showcases my work as a senior technical writer with a focus on AI systems, infrastructure documentation, and internal tooling. The portfolio includes:
 
