@@ -3,6 +3,7 @@ title: "Release Task Template Strategy"
 permalink: /samples/rtsk-strategy/
 layout: single
 author_profile: true
+author: davidcrawford
 ---
 
 ## Release Task Template Strategy

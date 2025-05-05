@@ -3,6 +3,7 @@ title: "Creative Work"
 layout: single
 permalink: /creative/
 author_profile: true
+author: davidcrawford
 ---
 
 ## Creative Work

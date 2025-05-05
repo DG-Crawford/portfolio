@@ -3,6 +3,7 @@ title: "Internal Documentation Hub Design"
 permalink: /samples/doc-hub/
 layout: single
 author_profile: true
+author: davidcrawford
 ---
 
 **Summary**  

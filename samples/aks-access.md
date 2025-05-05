@@ -3,6 +3,7 @@ title: "AKS Cluster Login Access"
 permalink: /samples/aks-access/
 layout: single
 author_profile: true
+author: davidcrawford
 ---
 
 ## Overview
