@@ -26,7 +26,7 @@ Live documentation portal built using Teams, SharePoint, and PowerAutomate to re
 - Introduced naming standards, metadata tagging, and a repository lifecycle workflow
 - [View Case Study →](/portfolio/samples/doc-hub/)
 
-### Release Task Template Strategy
+## Release Task Template Strategy
 
 **ServiceNow ReleaseTask Guidelines + Generation Process**
 Process documentation to standardize infrastructure release execution and improve cross-team clarity.

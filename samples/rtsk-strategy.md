@@ -2,13 +2,14 @@
 title: "Release Task Template Strategy"
 permalink: /samples/rtsk-strategy/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ## Release Task Template Strategy
 
 **Overview**  
-This document provides an overview of the release task (RTSK) templates used in our organization for managing and executing release tasks. Release task templates streamline the release process, ensuring consistent communication and efficient coordination between teams, particularly between engineers and the LAN NOC team.  
+This document provides an overview of the release task (RTSK) templates used in our organization for managing and executing release tasks. Release task templates streamline the release process, ensuring consistent communication and efficient coordination between teams.
+  
 Release task templates are predefined instructions and checklists that outline the steps required to complete specific release tasks. They serve several purposes:  
 • Standardization: Ensure that all tasks are executed consistently, following best practices.  
 • Efficiency: Save time by providing ready-to-use task instructions and reducing the need for ad-hoc communication.  
