@@ -2,7 +2,7 @@
 title: "AKS Cluster Login Access"
 permalink: /samples/aks-access/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ## Overview
