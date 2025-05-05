@@ -8,9 +8,9 @@ author: davidcrawford
 
 ## Triage Caller Symptoms
 
-Created to assist non-clinical staff in gathering symptom data with speed and consistency
-Reduced call escalation errors and shortened average case handling time
-Used as a standard intake tool across multiple urgent care locations
+- Created to assist non-clinical staff in gathering symptom data with speed and consistency
+- Reduced call escalation errors and shortened average case handling time
+- Used as a standard intake tool across multiple urgent care locations
 - [View PDF →](/assets/docs/triage-symptoms.pdf)
 
 ## Backline, Case, and Internal Transfers Protocol
