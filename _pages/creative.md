@@ -14,7 +14,7 @@ A collection of creative projects and narrative contributions that reflect my pa
 ### Medieval Overhaul (RimWorld Mod)
 
 **Summary**  
-Contributed to *Medieval Overhaul*, a top-rated overhaul mod for *RimWorld*, with 150K+ subscribers and over 2,500 positive reviews. My contributions focused on worldbuilding, flavor writing, and thematic cohesion across medieval professions, gear, and societal roles.
+Contributed to *Medieval Overhaul*, a top-rated overhaul mod for *RimWorld*, with 100K+ subscribers and over 2,500 positive reviews. My contributions focused on worldbuilding, flavor writing, and thematic cohesion across medieval professions, gear, and societal roles.
 
 **Key Contributions**  
 - Wrote item descriptions and character text in an immersive, historically-inspired tone  
@@ -22,7 +22,7 @@ Contributed to *Medieval Overhaul*, a top-rated overhaul mod for *RimWorld*, wit
 - Helped define tone for faction descriptions and event outcomes
 
 **Impact**  
-- Maintained a 4.9/5 user rating across major updates  
+- Maintained a perfect 5/5 user rating across major updates  
 - Enhanced immersion for thousands of players by deepening mod narrative tone  
 - Sparked derivative projects and collaborations in the modding community
 
