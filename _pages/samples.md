@@ -9,7 +9,7 @@ author: davidcrawford
 ## AKS Cluster Access Guide
 
 **Gaining Azure Kubernetes Service Access (Azure CLI + kubectl)**  
-_Simple, high-value access doc for engineers deploying into restricted clusters_
+Simple, high-value access doc for engineers deploying into restricted clusters.
 
 - Created for engineers needing first-time access to AKS workloads
 - Designed to reduce support requests around failed auth or missing role elevation
@@ -24,10 +24,12 @@ Live documentation portal built using Teams, SharePoint, and PowerAutomate to re
 - Created a modular Teams-based structure with real-time editing and lifecycle metadata
 - Built SharePoint-integrated folder systems for SOPs, templates, and review checklists
 - Introduced naming standards, metadata tagging, and a repository lifecycle workflow
-- Result: Reduced doc turnaround times by ~50% and enabled cross-team visibility
 - [View Case Study →](/portfolio/samples/doc-hub/)
 
-### API Reference (Planned)
-Sample API documentation based on open-source model interaction.
+### Release Task Template Strategy
+Process documentation to standardize infrastructure release execution and improve cross-team clarity.
 
-Stay tuned for updates—or contact me if you'd like to see something specific.
+- Created to support engineers and coordinators handling release workflows via ServiceNow
+- Designed to reduce ambiguity, ensure proper handoffs, and align with ARB-approved builds
+- Used by LAN NOC, Windows, Linux, and Cloud Infrastructure teams to streamline release task execution
+- [View Guide →](/portfolio/samples/rtsk-strategy/)

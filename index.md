@@ -15,3 +15,4 @@ Check out some of my recent works below.
 
 - [Documentation Samples](/samples/)
 - [AI Projects](/projects/)
+- [Creative Work] (/creative/)
