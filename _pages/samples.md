@@ -27,9 +27,11 @@ Live documentation portal built using Teams, SharePoint, and PowerAutomate to re
 - [View Case Study →](/portfolio/samples/doc-hub/)
 
 ### Release Task Template Strategy
+
+**ServiceNow ReleaseTask Guidelines + Generation Process**
 Process documentation to standardize infrastructure release execution and improve cross-team clarity.
 
 - Created to support engineers and coordinators handling release workflows via ServiceNow
 - Designed to reduce ambiguity, ensure proper handoffs, and align with ARB-approved builds
-- Used by LAN NOC, Windows, Linux, and Cloud Infrastructure teams to streamline release task execution
+- Used by more than four teams to streamline release task execution
 - [View Guide →](/portfolio/samples/rtsk-strategy/)

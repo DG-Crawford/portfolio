@@ -2,7 +2,7 @@
 title: "Internal Documentation Hub Design"
 permalink: /samples/doc-hub/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 **Summary**  
