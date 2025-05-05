@@ -1,6 +1,6 @@
 ---
-title: "Writing Samples"
-permalink: /Medical Documentation/
+title: "Medical SOPs"
+permalink: /Medical SOPs/
 layout: single
 author_profile: true
 author: davidcrawford
