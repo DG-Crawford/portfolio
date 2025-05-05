@@ -13,7 +13,7 @@ Welcome. I'm a senior technical writer with experience in Confluence, ServiceNow
 
 Check out some of my recent works below.
 
-- [Documentation Samples](/samples/)
-- [AI Projects](/projects/)
-- [Creative Work](/creative/)
-- [Medical SOPs](/medical/)
+- [Documentation Samples](/portfolio/samples/)
+- [AI Projects](/portfolio/projects/)
+- [Creative Work](/portfolio/creative/)
+- [Medical SOPs](/portfolio/medical/)
