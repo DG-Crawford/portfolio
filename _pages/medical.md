@@ -1,6 +1,6 @@
 ---
 title: "Medical SOPs"
-permalink: /Medical SOPs/
+permalink: /medical-sops/
 layout: single
 author_profile: true
 author: davidcrawford
