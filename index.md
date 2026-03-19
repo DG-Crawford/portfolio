@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "
-excerpt: ""
+title: "David Crawford"
+excerpt: "Technical Writer"
 author_profile: true
 author: davidcrawford
 ---
 
-<H1>David Crawford</h1>
 Welcome.
 
 I have five+ years of experience in:
@@ -23,7 +22,7 @@ In my role at Elevance Systems, my work includes managing multiple Confluence sp
 
 <h2>Skills</h2>
 <h3>Core Skills</h3>
-- Technical documentation | Knowledge management | SOPs | Runbooks | Process documentation | Information architecture | Taxonomy | Metadata | Governance | Editorial QA | Content lifecycle | Gap analysis | SME interviews
+<p>- Technical documentation | Knowledge management | SOPs | Runbooks | Process documentation | Information architecture | Taxonomy | Metadata | Governance | Editorial QA | Content lifecycle | Gap analysis | SME interviews </p>
 
 <h3>Tools & Technologies</h3>
 - ServiceNow | Confluence | SharePoint | Salesforce | MediaWiki | GitHub | Markdown | HTML | CSS | REST APIs | Power Automate | Visio | Camtasia | OBS | Microsoft Teams | Adobe Creative Suite | Microsoft Azure | AI | LLMs | Automation
