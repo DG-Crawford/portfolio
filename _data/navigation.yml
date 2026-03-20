@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Governance documentation"
     url: https://dg-crawford.github.io/portfolio/samples/#governance-documentation
   - title: "SOPs and Runbooks"
