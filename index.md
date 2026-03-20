@@ -17,7 +17,7 @@ I have five+ years of experience in:
 - Leading documentation projects,
 - Performing gap analysis to improve workflows.
 
-Working with healthcare professionals and engineering teams, I’ve created a range of technical documentation, including SOPs, runbooks, labels / metadata standards, security policies, and user and developer guides.
+Working with healthcare professionals and engineering teams, I’ve created a range of technical documentation, including SOPs, runbooks, labels/metadata standards, security policies, and user and developer guides.
 
 <h3>Current role</H3>
 

@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: ""
 permalink: /experience/
 layout: single
 classes: 
@@ -9,13 +9,15 @@ author_profile: true
 author: davidcrawford
 ---
 
+<h2>Experience</h2>
   <article class="job">
     <div class="job-header">
       <h3>Enterprise Architecture and Solutions Technical Writer</h3>
-      <div class="job-date">Aug 2025 – March 2026</div>
-    </div>
-    <div class="job-meta">Elevance Systems | Remote - Contract</div>
-    <ul>
+<div style="display:flex; justify-content:space-between; align-items:baseline;">
+  <span>Elevance Systems | Remote - Contract</span>
+  <span>Aug 2025 – March 2026</span>
+</div>    
+<ul>
       <li>Built knowledge base repositories in ServiceNow and Confluence supported by taxonomy, metadata, and governance to support enterprise architecture.</li>
       <li>Standardized deliverables with templates, standard policies, SOPs and runbooks, and filterable reports.</li>
       <li>Designed lightweight ServiceNow intake workflow that reduced draft-to-review cycle time from roughly 11 days to under 2.</li>
@@ -29,9 +31,10 @@ author: davidcrawford
   <article class="job">
     <div class="job-header">
       <h3>Technical Writer</h3>
-      <div class="job-date">Jul 2023 – Aug 2025</div>
-    </div>
-    <div class="job-meta">OptaFi | Remote</div>
+<div style="display:flex; justify-content:space-between; align-items:baseline;">
+  <span>OptaFi | Remote</span>
+  <span>Jul 2023–Aug 2025</span>
+</div>
     <ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Maintained knowledge base as lead writer and editor using Markdown and HTML.</li>
@@ -45,9 +48,10 @@ author: davidcrawford
 <article class="job">
     <div class="job-header">
       <h3>Medical Technical Writer</h3>
-      <div class="job-date">Sep 2021–Aug 2023</div>
-    </div>
-    <div class="job-meta">VillageMD | Houston, TX</div>
+<div style="display:flex; justify-content:space-between; align-items:baseline;">
+  <span>VillageMD | Houston, TX</span>
+  <span>Sep 2021–Aug 2023</span>
+</div>
     <ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Created call center, physician, and triage job aids and protocols in HIPAA-regulated healthcare environment.</li>
@@ -62,9 +66,10 @@ author: davidcrawford
 <article class="job">
     <div class="job-header">
       <h3>Writer and Editor</h3>
-      <div class="job-date">Jun 2020–Jul 2023</div>
-    </div>
-    <div class="job-meta">Freelance | Remote</div>
+<div style="display:flex; justify-content:space-between; align-items:baseline;">
+  <span>Freelance | Remote</span>
+  <span>Jun 2020–Jul 2023</span>
+</div>
     <ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Managed keyword research and analytics to create user-focused content and improve discoverability and search performance.</li>
@@ -73,3 +78,16 @@ author: davidcrawford
       <li>Produced player-first interactive narrative content for gaming environments, including a top-rated quest overhaul add-on with over 3,500 five-star reviews.</li>
     </ul>
   </article>
+
+<h2>Education</h2>
+B.A., English Literature (Creative Writing)
+
+University of Texas at San Antonio
+
+<h3>Certifications</h3>
+
+Creating Technical Documentation with GitHub
+
+Information Management: Document Security
+
+Learn API Technical Writing: JSON and XML for Writers
