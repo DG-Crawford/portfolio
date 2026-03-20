@@ -5,7 +5,8 @@ layout: single
 classes: 
     wide
     dark-theme
-author_profile: false
+author_profile: true
+toc: true
 author: davidcrawford
 ---
 
