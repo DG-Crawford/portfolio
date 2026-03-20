@@ -2,6 +2,9 @@
 title: "Governance Docs"
 permalink: /samples/governance/
 layout: single
+classes: 
+    wide
+    dark-theme
 author_profile: true
 author: davidcrawford
 ---

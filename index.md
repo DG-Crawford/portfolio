@@ -2,6 +2,9 @@
 layout: single
 title: "David Crawford"
 excerpt: "Technical Writer"
+classes: 
+    wide
+    dark-theme
 author_profile: true
 author: davidcrawford
 ---
@@ -29,12 +32,3 @@ In my role at Elevance Systems, my work includes managing multiple Confluence sp
 
 <h3>Domains</h3>
 <p> - Cloud documentation | Security policies | NIST | HIPAA | SaaS | B2B </p>
-
-
-<h2>Projects</h2>
-Check out some of my recent works below.
-
-- [Documentation Samples](/portfolio/samples/)
-- [AI Projects](/portfolio/projects/)
-- [Creative Work](/portfolio/creative/)
-- [Medical SOPs](/portfolio/medical/)

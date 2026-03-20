@@ -2,6 +2,9 @@
 title: "Respond to Rubrik Backup Alerts"
 permalink: /samples/Rubrik-runbook/
 layout: single
+classes: 
+    wide
+    dark-theme
 author_profile: true
 author: davidcrawford
 ---

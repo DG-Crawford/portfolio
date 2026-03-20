@@ -2,26 +2,15 @@
 title: "AKS Cluster Login Access"
 permalink: /samples/aks-access/
 layout: single
+classes: 
+    wide
+    dark-theme
 author_profile: true
 author: davidcrawford
 ---
 
-3-minute walkthrough. Objective: authenticate to Azure, pull AKS credentails, and verify cluster connectivity.
-
-<div class="video">
-  <iframe
-    width="900"
-    height="506"
-    src="https://www.youtube-nocookie.com/embed/TsGVjjBd62Y"
-    title="AKS Cluster Login Access - Walkthrough"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-  <p><a href="https://youtu.be/TsGVjjBd62Y" target="_blank" rel="noopener">Watch on YouTube.</a></p>
-</div>
-
 ## Overview
+
 Before managing or deploying workloads in the Azure Kubernetes Service (AKS), you must gain access to the relevant cluster using Azure CLI and kubectl.
 
 ## Prerequisites

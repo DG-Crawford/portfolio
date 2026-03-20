@@ -10,6 +10,8 @@ toc: true
 author: davidcrawford
 ---
 
+This page contains examples of technical documenation I have managed and delivered. I invite you to click each deliverable to read more about the problem, my contributions, and the impact achieved through the project.
+
 ## Governance documentation
 ### Problem
 

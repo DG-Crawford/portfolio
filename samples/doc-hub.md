@@ -2,6 +2,9 @@
 title: "Internal Documentation Hub Design"
 permalink: /samples/doc-hub/
 layout: single
+classes: 
+    wide
+    dark-theme
 author_profile: true
 author: davidcrawford
 ---
