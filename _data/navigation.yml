@@ -1,13 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Samples"
-    url: /samples/
-  - title: "AI Projects"
-    url: /projects/
-  - title: "Creative Work"
-    url: /creative/
+  - title: "Governance documentation"
+    url: https://dg-crawford.github.io/portfolio/samples/#governance-documentation
+  - title: "SOPs and Runbooks"
+    url: https://dg-crawford.github.io/portfolio/samples/#sops-and-runbooks
   - title: "Medical documentation"
     url: https://dg-crawford.github.io/portfolio/samples/#medical-documentation
-  - title: "Resume"
-    url: /assets/David-Crawford-Resume.pdf
+  - title: "Experience"
+    url: /experience/
