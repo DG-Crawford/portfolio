@@ -2,9 +2,10 @@
 title: ""
 permalink: /samples/
 layout: single
-classes: wide
-skin: dark
-author_profile: true
+classes: 
+    wide
+    dark-theme
+author_profile: false
 author: davidcrawford
 ---
 
