@@ -73,4 +73,3 @@ author: davidcrawford
       <li>Produced player-first interactive narrative content for gaming environments, including a top-rated quest overhaul add-on with over 3,500 five-star reviews.</li>
     </ul>
   </article>
-</section>

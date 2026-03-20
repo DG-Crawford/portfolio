@@ -1,9 +1,9 @@
 main:
-  - title: "Governance documentation"
+  - title: "GOVERNANCE"
     url: https://dg-crawford.github.io/portfolio/samples/#governance-documentation
-  - title: "SOPs and Runbooks"
+  - title: "SOPS / RUNBOOKS"
     url: https://dg-crawford.github.io/portfolio/samples/#sops-and-runbooks
-  - title: "Medical documentation"
+  - title: "MEDICAL"
     url: https://dg-crawford.github.io/portfolio/samples/#medical-documentation
-  - title: "Experience"
+  - title: "EXPERIENCE"
     url: /experience/
