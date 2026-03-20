@@ -75,16 +75,16 @@ author: davidcrawford
       <li>Produced player-first interactive narrative content for gaming environments, including a top-rated quest overhaul add-on with over 3,500 five-star reviews.</li>
     </ul>
 
-<h2>Education</h2>
+## Education
 
-B.A., English Literature (Creative Writing)
+<p>B.A., English Literature (Creative Writing)
 
-University of Texas at San Antonio
+University of Texas at San Antonio</p>
 
-<h3>Certifications</h3>
+### Certifications
 
-Creating Technical Documentation with GitHub
+<p>Creating Technical Documentation with GitHub
 
 Information Management: Document Security
 
-Learn API Technical Writing: JSON and XML for Writers
+Learn API Technical Writing: JSON and XML for Writers</p>
