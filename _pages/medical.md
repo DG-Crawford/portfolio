@@ -26,7 +26,6 @@ author: davidcrawford
       <li>Scoped an API-driven workflow to accelerate BCDR inventory capture and support large-scale profile creation for 600+ applications.</li>
       <li>Defined and analyzed scopes, objectives, and documentation requirements for enterprise architecture efforts across technical and business stakeholders.</li>
     </ul>
-  </article>
 
   <article class="job">
     <div class="job-header">
@@ -43,7 +42,6 @@ author: davidcrawford
       <li>Documented API-based metadata collection process to support long-term content management.</li>
       <li>Performed quality analysis on peer-reviewed content for structure, consistency, and technical accuracy.</li>
     </ul>
-  </article>
 
 <article class="job">
     <div class="job-header">
@@ -61,7 +59,6 @@ author: davidcrawford
       <li>Created and maintained Power Automate workflows connecting Microsoft Office tools to streamline document and page updates.</li>
       <li>Performed gap analysis across business and clinic environments to identify areas for improvement and improve process support.</li>
     </ul>
-  </article>
 
 <article class="job">
     <div class="job-header">
@@ -77,9 +74,9 @@ author: davidcrawford
       <li>Built foundational experience with REST API and structured data formats including JSON and XML.</li>
       <li>Produced player-first interactive narrative content for gaming environments, including a top-rated quest overhaul add-on with over 3,500 five-star reviews.</li>
     </ul>
-  </article>
 
 <h2>Education</h2>
+
 B.A., English Literature (Creative Writing)
 
 University of Texas at San Antonio
