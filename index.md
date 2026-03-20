@@ -25,10 +25,10 @@ In my role at Elevance Systems, my work includes managing multiple Confluence sp
 
 <h2>Skills</h2>
 <h3>Core Skills</h3>
-<p> - Technical documentation | Knowledge management | SOPs | Runbooks | Process documentation | Information architecture | Taxonomy | Metadata | Governance | Editorial QA | Content lifecycle | Gap analysis | SME interviews </p>
+<p>Technical documentation | Knowledge management | SOPs | Runbooks | Process documentation | Information architecture | Taxonomy | Metadata | Governance | Editorial QA | Content lifecycle | Gap analysis | SME interviews </p>
 
 <h3>Tools & Technologies</h3>
-<p> - ServiceNow | Confluence | SharePoint | Salesforce | MediaWiki | GitHub | Markdown | HTML | CSS | REST APIs | Power Automate | Visio | Camtasia | OBS | Microsoft Teams | Adobe Creative Suite | Microsoft Azure | AI | LLMs | Automation </p>
+<p>ServiceNow | Confluence | SharePoint | Salesforce | MediaWiki | GitHub | Markdown | HTML | CSS | REST APIs | Power Automate | Visio | Camtasia | OBS | Microsoft Teams | Adobe Creative Suite | Microsoft Azure | AI | LLMs | Automation </p>
 
 <h3>Domains</h3>
-<p> - Cloud documentation | Security policies | NIST | HIPAA | SaaS | B2B </p>
+<p>Cloud documentation | Security policies | NIST | HIPAA | SaaS | B2B </p>
