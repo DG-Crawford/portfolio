@@ -7,7 +7,7 @@ main:
     url: /projects/
   - title: "Creative Work"
     url: /creative/
-  - title: "Medical SOPs"
-    url: /medical/
+  - title: "Medical documentation"
+    url: https://dg-crawford.github.io/portfolio/samples/#medical-documentation
   - title: "Resume"
     url: /assets/David-Crawford-Resume.pdf

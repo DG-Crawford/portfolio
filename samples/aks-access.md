@@ -39,8 +39,7 @@ Before managing or deploying workloads in the Azure Kubernetes Service (AKS), yo
 	- Retrieve the AKS Cluster Credentials: 
 
 	```bash
-	az aks get-credentials –-resource-group <RESOURCE_GROUP> 
-	--name <AKS_CLUSTER_NAME>
+	az aks get-credentials –-resource-group <RESOURCE_GROUP> --name <AKS_CLUSTER_NAME>
 	``` 
 
 	- Verify the connection: 
