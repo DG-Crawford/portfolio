@@ -70,14 +70,11 @@ author: davidcrawford
 
 ## Education
 
-<p>B.A., English Literature (Creative Writing)
-
-University of Texas at San Antonio</p>
+<div><strong>B.A., English Literature (Creative Writing)</strong></div>
+<div>University of Texas at San Antonio</div>
 
 ### Certifications
 
-<p>Creating Technical Documentation with GitHub
-
-Information Management: Document Security
-
-Learn API Technical Writing: JSON and XML for Writers</p>
+<div>Creating Technical Documentation with GitHub</div>
+<div>Information Management: Document Security</div>
+<div>Learn API Technical Writing: JSON and XML for Writers</div>
