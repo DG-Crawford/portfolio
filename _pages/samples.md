@@ -2,6 +2,8 @@
 title: ""
 permalink: /samples/
 layout: single
+classes: wide
+skin: dark
 author_profile: true
 author: davidcrawford
 ---
