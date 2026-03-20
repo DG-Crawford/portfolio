@@ -9,10 +9,9 @@ author_profile: true
 author: davidcrawford
 ---
 
-<h2>Experience</h2>
-  <article class="job">
-    <div class="job-header">
-      <h3>Enterprise Architecture and Solutions Technical Writer</h3>
+## Experience
+
+<h3>Enterprise Architecture and Solutions Technical Writer</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>Elevance Systems | Remote - Contract</span>
   <span>Aug 2025 – March 2026</span>
@@ -27,9 +26,7 @@ author: davidcrawford
       <li>Defined and analyzed scopes, objectives, and documentation requirements for enterprise architecture efforts across technical and business stakeholders.</li>
     </ul>
 
-  <article class="job">
-    <div class="job-header">
-      <h3>Technical Writer</h3>
+<h3>Technical Writer</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>OptaFi | Remote</span>
   <span>Jul 2023–Aug 2025</span>
@@ -43,9 +40,7 @@ author: davidcrawford
       <li>Performed quality analysis on peer-reviewed content for structure, consistency, and technical accuracy.</li>
     </ul>
 
-<article class="job">
-    <div class="job-header">
-      <h3>Medical Technical Writer</h3>
+<h3>Medical Technical Writer</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>VillageMD | Houston, TX</span>
   <span>Sep 2021–Aug 2023</span>
@@ -60,9 +55,7 @@ author: davidcrawford
       <li>Performed gap analysis across business and clinic environments to identify areas for improvement and improve process support.</li>
     </ul>
 
-<article class="job">
-    <div class="job-header">
-      <h3>Writer and Editor</h3>
+<h3>Writer and Editor</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>Freelance | Remote</span>
   <span>Jun 2020–Jul 2023</span>
