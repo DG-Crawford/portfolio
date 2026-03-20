@@ -46,7 +46,6 @@ author: davidcrawford
   <span>Sep 2021–Aug 2023</span>
 </div>
 <ul>
-      <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Created call center, physician, and triage job aids and protocols in HIPAA-regulated healthcare environment.</li>
       <li>Reviewed call center operations to identify documentation gaps, improvement opportunities, and content requirements.</li>
       <li>Developed new SharePoint repository to maintain and track analytics for training and medical deliverables; received 90% user satisfaction rating and increased engagement by 258% among agents and physicians within six months post-launch.</li>
@@ -61,7 +60,6 @@ author: davidcrawford
   <span>Jun 2020–Jul 2023</span>
 </div>
 <ul>
-      <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Managed keyword research and analytics to create user-focused content and improve discoverability and search performance.</li>
       <li>Designed websites and marketing materials for small business; increased web traffic by 75% and organic leads by 200%.</li>
       <li>Built foundational experience with REST API and structured data formats including JSON and XML.</li>
