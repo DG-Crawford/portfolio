@@ -31,21 +31,21 @@ author: davidcrawford
   <span>OptaFi | Remote</span>
   <span>Jul 2023–Aug 2025</span>
 </div>
-    <ul>
+<ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Maintained knowledge base as lead writer and editor using Markdown and HTML.</li>
       <li>Interviewed 20+ SMEs across Linux and Windows teams to capture and validate technical procedures.</li>
       <li>Collaborated with project managers and customer-facing teams to confirm scope, audience, and intent for documentation.</li>
       <li>Documented API-based metadata collection process to support long-term content management.</li>
       <li>Performed quality analysis on peer-reviewed content for structure, consistency, and technical accuracy.</li>
-    </ul>
+</ul>
 
 <h3>Medical Technical Writer</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>VillageMD | Houston, TX</span>
   <span>Sep 2021–Aug 2023</span>
 </div>
-    <ul>
+<ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Created call center, physician, and triage job aids and protocols in HIPAA-regulated healthcare environment.</li>
       <li>Reviewed call center operations to identify documentation gaps, improvement opportunities, and content requirements.</li>
@@ -53,20 +53,20 @@ author: davidcrawford
       <li>Designed an internal SharePoint-hosted provider directory in Excel for roughly 3,000 providers across seven states to support call center teams with provider name, location, phone, and NPI information.</li>
       <li>Created and maintained Power Automate workflows connecting Microsoft Office tools to streamline document and page updates.</li>
       <li>Performed gap analysis across business and clinic environments to identify areas for improvement and improve process support.</li>
-    </ul>
+</ul>
 
 <h3>Writer and Editor</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>Freelance | Remote</span>
   <span>Jun 2020–Jul 2023</span>
 </div>
-    <ul>
+<ul>
       <li>Wrote SOPs, how-to articles, and procedures for infrastructure and IT operations in MediaWiki and ServiceNow.</li>
       <li>Managed keyword research and analytics to create user-focused content and improve discoverability and search performance.</li>
       <li>Designed websites and marketing materials for small business; increased web traffic by 75% and organic leads by 200%.</li>
       <li>Built foundational experience with REST API and structured data formats including JSON and XML.</li>
       <li>Produced player-first interactive narrative content for gaming environments, including a top-rated quest overhaul add-on with over 3,500 five-star reviews.</li>
-    </ul>
+</ul>
 
 ## Education
 
