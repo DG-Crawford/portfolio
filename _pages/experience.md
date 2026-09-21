@@ -14,7 +14,7 @@ author: davidcrawford
 <h3>Business Process Analyst II</h3>
 <div style="display:flex; justify-content:space-between; align-items:baseline;">
   <span>Autodesk | Remote - Contract</span>
-  <span>May 2025 – Present</span>
+  <span>May 2026 – Present</span>
 </div>    
 <ul>
       <li>Migrated a 68-page functional specification into an organized knowledge base spanning domain concepts, application reference documentation, and historical context.</li>
