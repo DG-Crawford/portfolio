@@ -11,7 +11,7 @@ author: davidcrawford
 
 Welcome.
 
-I have five+ years of experience in:
+I have six+ years of experience in:
 - Scoping documentation for technical and non-technical audiences,
 - Creating and managing knowledge bases with governance and standards,
 - Leading documentation projects,
@@ -21,7 +21,7 @@ Working with healthcare professionals and engineering teams, I’ve created a ra
 
 <h3>Current role</H3>
 
-In my role at Elevance Systems, my work includes managing multiple Confluence spaces for enterprise architecture, documenting processes and procedures in ServiceNow, and leveraging AI tools to expedite interview-to-draft intake. A majority of my day revolves around writing, interviewing SMEs, and analyzing gaps for process and documentation improvements.
+In my role at Autodesk, my work includes transforming legacy functional specifications into structured Confluence documentation, defining source-of-truth and governance standards, and using AI-assisted workflows to improve doc quality. A majority of my day revolves around writing, interviewing SMEs, and improving how technical knowledge is organized and maintained.
 
 <h2>Skills</h2>
 <h3>Core Skills</h3>
