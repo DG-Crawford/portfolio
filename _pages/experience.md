@@ -32,7 +32,7 @@ author: davidcrawford
 <ul>
       <li>Built Confluence and ServiceNow knowledge base repositories adhering to taxonomy, metadata, and governance standards to support enterprise architecture.</li>
       <li>Designed a ServiceNow intake workflow that reduced draft-to-review cycle time from approximately 11 days to under 2.</li>
-      <li>Managed a cross-functional team developing a backup and recovery policy following NIST SP 800-34,</li>
+      <li>Managed a cross-functional team developing a backup and recovery policy following NIST SP 800-34.</li>
       <li>Designed LLM-assisted workflow for transcript summarization and mapping from SME discussion to structured templates.</li>
       <li>Scoped an API-driven approach for capturing BCDR inventory data across 600+ applications.</li>
     </ul>
